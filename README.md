@@ -20,9 +20,9 @@ I will list the specific steps I've followed in the tutorial below. This will he
 1. [x] Completed setup of Firebase project.
 2. [x] Implemented user registration functionality.
 3. [x] Implemented user login functionality.
-4. [ ] Explored Firebase features for managing user authentication.
-5. [ ] Added error handling and feedback mechanisms.
-6. [ ] Completed the tutorial.
+4. [x] Explored Firebase features for managing user authentication.
+5. [x] Added error handling and feedback mechanisms.
+6. [x] Completed the tutorial.
 
 I will mark each step as completed when I've successfully implemented it in my project. Feel free to check back for updates.
 
